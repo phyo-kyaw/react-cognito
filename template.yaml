@@ -11,13 +11,13 @@ Parameters:
 
   S3BucketName:
     Type: String
-    Default: majestic-static-site
+    Default: pk-majestic-static-site
   CognitoUserPoolName:
     Type: String
-    Default: majestic-userpool
+    Default: pk-majestic-userpool
   CognitoWebClientName:
     Type: String
-    Default: majestic-webclient
+    Default: pk-majestic-webclient
 
 Resources:
 
